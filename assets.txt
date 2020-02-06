@@ -98,6 +98,30 @@ Alle BMW M235i Racing Cup-Wagen</option>
 <option value="6262" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/bmw-motorsport-235-6264-image-thumb.webp">
 BMW M235i Racing</option>
 </optgroup>
+<optgroup label="C-Klasse DTM 1995">
+<option value="class-7075">
+Alle C-Klasse DTM 1995-Wagen</option>
+<option value="7076" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/amg-mercedes-3-7082-image-thumb.webp">
+AMG-Mercedes C-Klasse DTM 1995</option>
+</optgroup>
+<optgroup label="CLK DTM 2003">
+<option value="class-7167">
+Alle CLK DTM 2003-Wagen</option>
+<option value="7169" data-image="http://game.raceroom.com/assets/content/carlivery/hwa-team-3-7173-image-thumb.webp">
+AMG-Mercedes CLK DTM</option>
+</optgroup>
+<optgroup label="C-Klasse DTM 2005">
+<option value="class-7168">
+Alle C-Klasse DTM 2005-Wagen</option>
+<option value="7183" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/hwa-team-3-7187-image-thumb.webp">
+AMG-Mercedes C-Klasse DTM</option>
+</optgroup>
+<optgroup label="Cayman GT4 Trophy by Manthey-Racing">
+<option value="class-6648">
+Alle Cayman GT4 Trophy by Manthey-Racing-Wagen</option>
+<option value="6568" data-image="http://game.raceroom.com/assets/content/carlivery/porsche-motorsport-4-6570-image-thumb.webp">
+Porsche Cayman GT4 Clubsport</option>
+</optgroup>
 <optgroup label="DTM 1992">
 <option value="class-3499">
 Alle DTM 1992-Wagen</option>
