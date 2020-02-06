@@ -56,6 +56,18 @@ Mercedes-Benz SLS AMG GT3</option>
 <option value="4557" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/mrs-gt-racing-22-4559-image-thumb.webp">
 Nissan GT-R GT3</option>
 </optgroup>
+<optgroup label="ADAC GT Masters 2018">
+<option value="class-7278">
+Alle ADAC GT Masters 2018-Wagen</option>
+<option value="7630" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/aust-motorsport-3-7656-image-thumb.webp">
+Audi R8 LMS</option>
+<option value="7629" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/bmw-team-schnitzer-42-7670-image-thumb.webp">
+BMW M6 GT3</option>
+<option value="7640" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/callaway-competition-1-7673-image-thumb.webp">
+Callaway Corvette C7 GT3-R</option>
+<option value="7643" data-image="http://game.raceroom.com/r3e/assets/content/carlivery/mann-filter-team-htp-47-7677-image-thumb.webp">
+Mercedes AMG GT3</option>
+</optgroup>
 <optgroup label="Aquila CR1 Cup">
 <option value="class-255">
 Alle Aquila CR1 Cup-Wagen</option>
